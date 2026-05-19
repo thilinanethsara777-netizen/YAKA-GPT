@@ -1,0 +1,8 @@
+{
+  "name": "YAKA GPT",
+  "description": "A powerful, clean, and friendly AI assistant by Thilina Nethsara, capable of intelligent chat, image analysis, and creative image generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
